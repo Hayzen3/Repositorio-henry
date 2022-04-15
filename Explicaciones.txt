@@ -1,0 +1,5 @@
+Variable: es una forma para almacenar algo bajo ese nombre osea si tu quieres guardar una partida en un juego la guardas bajo la variable "partida 1"
+String: es un espacio que esta entre comillas y entre las comillas hay un texto
+Funciones: (return): return significa que ya puede debe dejar de seguir haciendo procesos y debe dar el resultado sin importar si hay algo debajo de "return"
+Declaracion if: significa "si" como cuando dices "si esto es asi, entonces debes hacer esto"
+Valores booleanos: son 2 valores, true y false, estos se puden llegar a interpretar de manera positiva (true) y negativa (false)
